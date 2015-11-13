@@ -1,0 +1,50 @@
+a, a:visited, a:active, a:hover {
+  text-decoration: none;
+}
+
+a {
+  color: #999;
+}
+
+a.active {
+  color: #000;
+}
+
+p.small {
+  font-size: 80%;
+}
+
+h1, p, #poem2009 {
+  font-family: Arial;
+  font-size: 120%;
+  padding-left: 10px;
+}
+
+#poem2015 {
+  font-family: Arial;
+}
+
+.stanza-wrapper {
+  overflow: hidden;
+}
+
+.stanza-left, .stanza-right {
+  float: left;
+}
+
+.stanza-left {
+    width: 600px;
+}
+
+.stanza-text, .stanza-description {
+  margin: 0px;
+  padding: 10px;
+}
+
+.stanza-description {
+  color: #ccc;
+}
+
+.hidden {
+  display: none;
+}
