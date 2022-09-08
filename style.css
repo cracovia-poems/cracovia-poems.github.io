@@ -24,6 +24,10 @@ h1, p, #poem2009 {
   font-family: Arial;
 }
 
+#poem2022 {
+  font-family: Arial;
+}
+
 .stanza-wrapper {
   overflow: hidden;
 }
